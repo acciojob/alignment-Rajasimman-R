@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+body{
+	min-height:100rem;
+}
 .t12{
 	text-align:center;
 }
@@ -7,5 +10,14 @@
 }
 table{
 	width:100%;
-	min-height:9rem;
+	min-height:7rem;
+}
+#blue{
+	background-color:blue;
+}
+#green{
+	background-color:green;
+}
+#t-image{
+	text-align:center;
 }
