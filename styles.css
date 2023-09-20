@@ -33,3 +33,6 @@ h1{
 	cell-spacing:1px;
 	cell-padding:1px;
 }
+#table-1{
+	border:1px solid rgb(0, 0, 0);
+}
