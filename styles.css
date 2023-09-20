@@ -2,15 +2,18 @@
 body{
 	min-height:100rem;
 }
-.t12{
+#t12{
 	text-align:center;
 }
-.t13{
+#t13{
 	text-align:right;
 }
 table{
 	width:100%;
 	min-height:7rem;
+	border:1px solid black;
+	cell-spacing:1px;
+	cell-padding:1px;
 }
 #blue{
 	background-color:blue;
